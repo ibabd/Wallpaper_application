@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "63062782111",
+    "firebase_url": "https://blog-app-flutter-ec272-default-rtdb.firebaseio.com",
+    "project_id": "blog-app-flutter-ec272",
+    "storage_bucket": "blog-app-flutter-ec272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63062782111:android:99c0a83025f0e0aa08b2aa",
+        "android_client_info": {
+          "package_name": "com.example.blog_app_last"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskafCZz0vqcw-DMg4eWxYluVz6qfuUtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63062782111-9s1ke6ha6812i79uifs2l71o9n7uji11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63062782111:android:e6586356ba5c9f8b08b2aa",
+        "android_client_info": {
+          "package_name": "com.example.buy_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskafCZz0vqcw-DMg4eWxYluVz6qfuUtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63062782111-9s1ke6ha6812i79uifs2l71o9n7uji11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63062782111:android:4be5a2f147f0026508b2aa",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskafCZz0vqcw-DMg4eWxYluVz6qfuUtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63062782111-9s1ke6ha6812i79uifs2l71o9n7uji11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63062782111:android:b1458a170211634808b2aa",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskafCZz0vqcw-DMg4eWxYluVz6qfuUtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63062782111-s9k8l7ftuntkbnfrft45ct0kc033q8nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63062782111-9s1ke6ha6812i79uifs2l71o9n7uji11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
